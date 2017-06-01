@@ -1,0 +1,28 @@
+from scrapy.spiders import Spider
+import re
+from citeab.items import DmozItem
+
+class DmozSpider(Spider):
+    name = "dmoz"
+    allowed_domains = ["www.us-proxy.org"]
+    start_urls = [
+        "http://www.us-proxy.org/"
+    ]
+
+    def parse(self, response):
+        for href in response.xpath('//*[@id="proxylisttable"]/tbody/tr'):
+             #url = response.urljoin(href.extract())
+               result = href.extract()
+               pattern_ip = re.compile('<tr><td>(.*?)</td><td>(.*?)</td><td>.*?</td><td>.*?</td><td>.*?</td><td>.*?</td><td>(.*?)</td>')
+               pattern_port  = re.compile('<tr><td>(.*?)</td>.*?')
+               items = re.findall(pattern_ip,result)
+               for item in items:
+                   print(item[0],item[1],item[2])
+                   if(item[2] == 'yes'):
+                     print('hello')
+                     f = open('D:\pythonprojects\ips','a')
+                     f.write(item[0]+':'+item[1]+'\n')
+
+
+
+
