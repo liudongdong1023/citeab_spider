@@ -1,0 +1,1051 @@
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx14926)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["1"], "antibody_name": ["STMN3 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["ELISA", "IHC", "WB"], "antibody_code": ["(abx15864)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Monkey", "Mouse"], "antibody_citations": ["0"], "antibody_name": ["FOXD3 antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IF", "IF-cells", "IHC", "WB"], "antibody_code": ["(abx12782)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse"], "antibody_citations": ["0"], "antibody_name": ["MITF Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IHC", "WB"], "antibody_code": ["(abx13200)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["Synuclein gamma Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IF", "IF-cells", "IHC", "WB"], "antibody_code": ["(abx14202)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["APOL4 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["WB"], "antibody_code": ["(abx12015)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["Trk A (phospho-Tyr680+Tyr681) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["WB"], "antibody_code": ["(abx147894)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["ABI2 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx018314)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["JEV PreM Antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["WB"], "antibody_code": ["(abx123816)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse"], "antibody_citations": ["0"], "antibody_name": ["NR1H2 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["WB"], "antibody_code": ["(abx225023)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["AKR1C4 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["ELISA", "FC/FACS", "WB"], "antibody_code": ["(abx15855)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["FAS antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IHC"], "antibody_code": ["(abx13772)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse"], "antibody_citations": ["0"], "antibody_name": ["NRIP2 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IHC", "WB"], "antibody_code": ["(abx12616)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse"], "antibody_citations": ["0"], "antibody_name": ["MSK2 (Phospho-Thr568) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IHC", "WB"], "antibody_code": ["(abx12520)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse"], "antibody_citations": ["0"], "antibody_name": ["Period Circadian Protein 2 (Phospho-Ser662) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx14075)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["MRPS9 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx13499)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["ID4 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["WB"], "antibody_code": ["(abx11799)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["CDC2 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["WB"], "antibody_code": ["(abx12108)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse"], "antibody_citations": ["0"], "antibody_name": ["SRF Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ICC", "IF", "IHC", "IP", "WB"], "antibody_code": ["(abx133199)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Bovine", "Chicken", "Human", "Mouse", "Porcine", "Rat"], "antibody_citations": ["0"], "antibody_name": ["c-Jun (pS243) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IHC", "IP", "WB"], "antibody_code": ["(abx012539)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["GSK3 alpha (Phospho-Ser21) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["ELISA", "FC/FACS", "IHC", "WB"], "antibody_code": ["(abx15759)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["ABCG5 antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["ELISA", "FC/FACS", "WB"], "antibody_code": ["(abx15861)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["FN1 antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx13603)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["GK3 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IHC", "WB"], "antibody_code": ["(abx12935)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["PEK/PERK Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx18305)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["HAV VP1 Antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["IHC", "WB"], "antibody_code": ["(abx121534)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Canine", "Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["NMDAR1 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IHC"], "antibody_code": ["(abx145073)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["RAB11B Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["WB"], "antibody_code": ["(abx215617)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["Connexin 43 (pS279) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["WB"], "antibody_code": ["(abx148846)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["CAMK2A Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IHC", "WB"], "antibody_code": ["(abx012658)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["PYK2 (Phospho-Tyr579) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx12614)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["MNK1 (Phospho-Thr255) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["IHC", "WB"], "antibody_code": ["(abx11354)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["PKC alpha (phospho-Thr638) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["IF", "IF-cells", "WB"], "antibody_code": ["(abx12061)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["PDCD4 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["WB"], "antibody_code": ["(abx10478)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["C1orf57 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx018173)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["LZTFL1 Antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx105256)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["Charged multivesicular body protein 2a Antibody (Biotin)"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx014696)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["DECR2 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx014067)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["AGPAT3 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["ELISA", "FC/FACS", "IP", "WB"], "antibody_code": ["(abx139279)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["CD44 Antibody (APC)"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["WB"], "antibody_code": ["(abx225170)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["FGFBP1 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": [], "antibody_code": ["(abx16605)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["CD184 Antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["ELISA", "IHC", "WB"], "antibody_code": ["(abx15833)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["Cytokeratin 18 antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx15606)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["MMP17 (Cleaved-Gln129) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx13379)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["A-RAF Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IHC", "WB"], "antibody_code": ["(abx12433)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["Arrestin 1 (Phospho-Ser412) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx12931)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["PAK2 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IHC", "WB"], "antibody_code": ["(abx12479)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse"], "antibody_citations": ["0"], "antibody_name": ["CSFR (Phospho-Tyr561) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx13578)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["TLE4 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IHC", "WB"], "antibody_code": ["(abx13241)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["Tubulin gamma Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx110155)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["Protein-tyrosine sulfotransferase 2 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx11459)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["MSH6 antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx15091)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["IFIT5 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx15189)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["TNFRSF10D Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["IHC", "WB"], "antibody_code": ["(abx10369)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["Akt2 (phospho-Ser474) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx18037)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["MGB Antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IHC", "WB"], "antibody_code": ["(abx014248)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["EPB41L2 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["WB"], "antibody_code": ["(abx031090)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse"], "antibody_citations": ["0"], "antibody_name": ["MS4A13 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ICC", "IF"], "antibody_code": ["(abx026812)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["RNH1 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "ICC", "IF", "IHC", "WB"], "antibody_code": ["(abx101325)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["Interferon beta Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx105780)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["Plexin-A1 Antibody (Biotin)"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx16057)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["SORL1 antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["FC/FACS", "IHC", "IP", "WB"], "antibody_code": ["(abx16227)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["HLA-DR Antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IHC"], "antibody_code": ["(abx15541)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["Caspase 1 (Cleaved-Asp210) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx12627)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse"], "antibody_citations": ["0"], "antibody_name": ["RSK1/2/3/4 (Phospho-Ser221/227/S218/232) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx14045)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Rat"], "antibody_citations": ["0"], "antibody_name": ["MGMT Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["IF", "IF-cells", "IHC", "WB"], "antibody_code": ["(abx11553)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["SP1 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IHC", "WB"], "antibody_code": ["(abx13030)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["Catenin gamma Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx12422)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["CDC25B (Phospho-Ser323) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["WB"], "antibody_code": ["(abx025151)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["GAPDH Antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx015112)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["ANAPC5 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["ELISA", "IF", "IF-cells", "WB"], "antibody_code": ["(abx11232)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["NANOG antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": [], "antibody_code": ["(abx16285)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["CD4 Antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": [], "antibody_code": ["(abx16358)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["CD19 Antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx12877)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["p53 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx13924)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse"], "antibody_citations": ["0"], "antibody_name": ["CADM1 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx15527)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["U12 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx18292)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["LM Hly Antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx015226)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse"], "antibody_citations": ["0"], "antibody_name": ["CLPT1 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["IHC", "WB"], "antibody_code": ["(abx134593)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["STAT5A Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["WB"], "antibody_code": ["(abx216649)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse"], "antibody_citations": ["0"], "antibody_name": ["MAGEA1 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["ELISA", "IHC"], "antibody_code": ["(abx16035)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["MAP2K4 antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx12273)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse"], "antibody_citations": ["0"], "antibody_name": ["NF- kappa B p65 antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["ELISA", "FC/FACS", "IF", "IF-cells", "WB"], "antibody_code": ["(abx12294)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["TUBB3 antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IF", "IF-cells"], "antibody_code": ["(abx12466)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["Bax (Phospho-Thr167) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx14962)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["EIF2B4 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx14522)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["GNL1 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["IF", "IF-cells", "WB"], "antibody_code": ["(abx11275)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["CD271 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IF", "IF-cells"], "antibody_code": ["(abx15491)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["VN1R5 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["IHC", "IP", "WB"], "antibody_code": ["(abx123820)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["NR5A1 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["WB"], "antibody_code": ["(abx215371)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["Fidgetin Like 1 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["ELISA", "IHC", "WB"], "antibody_code": ["(abx10338)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["A1BG antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IF", "IF-cells"], "antibody_code": ["(abx14896)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["SCN7A Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx13323)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["ADA2L Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx15549)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["SPTA2 (Cleaved-Asp1185) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IF", "IF-cells", "WB"], "antibody_code": ["(abx15333)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse"], "antibody_citations": ["0"], "antibody_name": ["GPR87 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx14324)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["CEACAM21 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IHC", "WB"], "antibody_code": ["(abx13218)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["FAS Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["IF", "IF-cells", "WB"], "antibody_code": ["(abx12250)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["TIMP2 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ICC", "IF", "IHC", "WB"], "antibody_code": ["(abx011575)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["Survivin (pT117) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["WB"], "antibody_code": ["(abx147800)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["K6PL Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx10747)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["GATA1 antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IHC"], "antibody_code": ["(abx14888)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["SHC3 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx14067)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["AGPAT3 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["IHC", "IP", "WB"], "antibody_code": ["(abx11251)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["NF-kB p100/p52 (phospho-Ser865) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["IHC", "WB"], "antibody_code": ["(abx11609)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse"], "antibody_citations": ["0"], "antibody_name": ["TGM2 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["ELISA", "IHC"], "antibody_code": ["(abx18194)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["Cathepsin D Antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["ICC", "IF", "IHC", "WB"], "antibody_code": ["(abx019124)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["LAG1 longevity assurance homolog 2 Antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["IHC", "WB"], "antibody_code": ["(abx134387)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Monkey", "Rabbit", "Rat"], "antibody_citations": ["0"], "antibody_name": ["ZEB2 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx014551)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["LILRA2 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["FC/FACS"], "antibody_code": ["(abx200296)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["CD44 Antibody (APC)"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["ELISA", "FC/FACS", "IHC", "WB"], "antibody_code": ["(abx11278)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["NKX3A antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["ELISA", "FC/FACS", "WB"], "antibody_code": ["(abx15960)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["PDE1B antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IHC"], "antibody_code": ["(abx13686)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["CDKL3 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IF", "IF-cells", "WB"], "antibody_code": ["(abx13972)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["COX6C Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx15476)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["SMO Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["IHC", "WB"], "antibody_code": ["(abx11762)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["MEK1/2 (phospho-Ser217) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx18236)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["v5 Tag Antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx115868)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["Stromal Antigen 1 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx106914)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["Heat shock protein 75 kDa, mitochondrial Antibody (FITC)"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx014838)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["EWSR1 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx16070)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["OCT4 antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["FC/FACS"], "antibody_code": ["(abx16254)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["CD279 Antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IF", "IF-cells", "IHC", "WB"], "antibody_code": ["(abx13089)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["Gastrin Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx12942)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse"], "antibody_citations": ["0"], "antibody_name": ["FRS2 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IHC", "WB"], "antibody_code": ["(abx13220)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse"], "antibody_citations": ["0"], "antibody_name": ["NCoR1 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IHC", "WB"], "antibody_code": ["(abx14972)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse"], "antibody_citations": ["0"], "antibody_name": ["USP13 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IF", "IF-cells", "WB"], "antibody_code": ["(abx15488)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["AVPR2 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["WB"], "antibody_code": ["(abx11446)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse"], "antibody_citations": ["0"], "antibody_name": ["RBAK Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["WB"], "antibody_code": ["(abx218017)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["PRPF31 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ICC", "IF", "IHC", "WB"], "antibody_code": ["(abx133244)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Bovine", "Human", "Monkey", "Mouse", "Porcine", "Rat", "Zebrafish"], "antibody_citations": ["0"], "antibody_name": ["Ezrin/Radixin/Moesin (pT567/564/558) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IHC", "WB"], "antibody_code": ["(abx14232)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse"], "antibody_citations": ["0"], "antibody_name": ["ABCD4 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["IHC", "WB"], "antibody_code": ["(abx10440)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse"], "antibody_citations": ["0"], "antibody_name": ["B-RAF (phospho-Ser446) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["IHC"], "antibody_code": ["(abx10646)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["Chk1 (phospho-Ser345) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["IF", "IF-cells", "WB"], "antibody_code": ["(abx11279)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse"], "antibody_citations": ["0"], "antibody_name": ["NKX6.3 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx18259)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["DENV 1 E-D3 Antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["IHC", "WB"], "antibody_code": ["(abx17260)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Fruit fly", "Human", "Mouse", "Ovine", "Rat"], "antibody_citations": ["0"], "antibody_name": ["Beta Actin Antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["WB"], "antibody_code": ["(abx011845)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse"], "antibody_citations": ["0"], "antibody_name": ["GR (pS203) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ICC", "IF", "IHC", "WB"], "antibody_code": ["(abx133100)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Bovine", "Human", "Mouse", "Rabbit", "Zebrafish"], "antibody_citations": ["0"], "antibody_name": ["SF1 (pS82) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IHC"], "antibody_code": ["(abx012703)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["CNOT2 (Phospho-Ser101) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx012709)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse"], "antibody_citations": ["0"], "antibody_name": ["TAL-1 (Phospho-Ser122) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": [], "antibody_code": ["(abx16437)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["CD42b Antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "IHC", "WB"], "antibody_code": ["(abx13622)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse"], "antibody_citations": ["0"], "antibody_name": ["TAF5 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["IHC", "WB"], "antibody_code": ["(abx10902)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse", "Rat"], "antibody_citations": ["0"], "antibody_name": ["HDAC8 (phospho-Ser39) Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["WB"], "antibody_code": ["(abx10706)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse"], "antibody_citations": ["0"], "antibody_name": ["ELOVL1 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx14227)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["ABCA6 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx15043)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["ZNF691 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Monoclonal (unknown clone)
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx18293)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["LM Hly Antibody"], "antibody_host": ["
+Mouse
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "WB"], "antibody_code": ["(abx105847)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["Protein-tyrosine sulfotransferase 2 Antibody (Biotin)"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "ICC", "IF", "WB"], "antibody_code": ["(abx015310)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human"], "antibody_citations": ["0"], "antibody_name": ["GPR157 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": ["
+Polyclonal
+"], "antibody_applications": ["ELISA", "ICC", "IF", "IHC", "WB"], "antibody_code": ["(abx012790)"], "antibody_supplier": ["
+Abbexa
+"], "antibody_reactivity": ["Human", "Mouse"], "antibody_citations": ["0"], "antibody_name": ["SF1 Antibody"], "antibody_host": ["
+Rabbit
+"]}
+{"antibody_clonality": [], "antibody_applications": [], "antibody_code": [], "antibody_supplier": [], "antibody_reactivity": [], "antibody_citations": [], "antibody_name": [], "antibody_host": []}
